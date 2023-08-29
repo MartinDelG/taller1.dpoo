@@ -16,7 +16,7 @@ public class Modificacion {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
-			e.printStackTrace();
+		
 		}
 		 System.out.println(calc.paisConMasMedallistas());
 	}
